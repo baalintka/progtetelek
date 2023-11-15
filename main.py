@@ -1,0 +1,13 @@
+import feladatok
+eredmeny:int=feladatok.feladat(3,8)
+print(eredmeny)
+negativ_db:int=feladatok.negativ()
+print(negativ_db)
+veletlen1:int=feladatok.veletlen()
+print(veletlen1)
+leg:int=feladatok.legnagyobbb()
+print(leg)
+atlag:int=feladatok.egesz3szam()
+print(atlag)
+atlag2:int=feladatok.bekeres()
+print(atlag2)
